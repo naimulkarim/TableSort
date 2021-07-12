@@ -1,0 +1,13 @@
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.exe
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.deps.json
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.runtimeconfig.json
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.runtimeconfig.dev.json
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.dll
+D:\Test\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.pdb
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.csprojAssemblyReference.cache
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.AssemblyInfoInputs.cache
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.AssemblyInfo.cs
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.csproj.CoreCompileInputs.cache
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.dll
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.pdb
+D:\Test\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.genruntimeconfig.cache
